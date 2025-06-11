@@ -1,7 +1,7 @@
 {
   "name": "to-do-app",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://CreefordSanchez.github.io/to-do-react",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
